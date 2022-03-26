@@ -1,1 +1,2 @@
-# C-playingcards
+# C++ playingcards
+C言語でトランプ
